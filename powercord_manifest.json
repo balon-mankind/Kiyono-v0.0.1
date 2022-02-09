@@ -1,0 +1,9 @@
+{
+    "name": "Kiyono",
+    "description": "A cold, Kiyono theme!",
+    "version": "0.0.1",
+    "author": "balon#1735",
+    "theme": "Kiyono.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
